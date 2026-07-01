@@ -81,5 +81,7 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
 
 ## 📫 Contato
 
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/fabiano-s-da-silva-4663083b/
+- Email: fabianocafu@gmail.com
+- whatsapp: (51) 98961-0309
+ 
