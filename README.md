@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Fabiano Silva 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack C# | ASP.Net MVC 
+   Desenvolvedor Full Stack .NET | ASP.Net MVC
 </p>
 
 ---
@@ -13,6 +13,7 @@
 ## 🛠 Hard skills:
 - C#
 - ASP.NET Core
+- API RESTful  
 - ASP.NET MVC
 - Injeção de Dependência
 - Result pattern
@@ -39,23 +40,28 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
 ---
 
 ## 🛠 Tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NHibernate-59666C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoMapper-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Result_Pattern-0A66C2?style=for-the-badge" />
+</p>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,react,js,html,css,mysql"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,vue,html,css,js,jquery,mysql,postgres,visualstudio" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Microsserviços
 - Arquitetura Distribuída
+- Microsserviços
 - RabbitMQ
-- Azure
-- CI/CD
-- Kubernetes
 
 ---
 
@@ -69,13 +75,7 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
 
 ## 💼 Objetivos
 
-✔ Desenvolver aplicações escaláveis
-
-✔ Aprimorar conhecimentos em Cloud
-
-✔ Contribuir para projetos Open Source
-
-✔ Evoluir como Desenvolvedor .NET
+✔ Evoluir continuamente como Desenvolvedor .NET, aprofundando meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e nas tecnologias mais modernas e relevantes do mercado.
 
 ---
 
