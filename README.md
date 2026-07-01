@@ -10,7 +10,7 @@
 
 💻 Profissional com mais ou menos 10 anos de experiência atuando com C#/.Net.
 
-Hard skills:
+## 🛠 Hard skills:
 - C#
 - ASP.NET Core
 - ASP.NET MVC
