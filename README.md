@@ -1,27 +1,38 @@
 <h1 align="center">Olá! Eu sou o Fabiano Silva 👋</h1>
 
 <p align="center">
-Desenvolvedor Back-end .NET | C# | Microsserviços | RabbitMQ
+  Desenvolvedor Full Stack C# | ASP.Net MVC 
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor focado em aplicações back-end utilizando o ecossistema .NET.
+💻 Profissional com mais ou menos 10 anos de experiência atuando com C#/.Net.
 
-Atualmente estudo e desenvolvo soluções utilizando:
-
+Hard skills:
 - C#
 - ASP.NET Core
+- ASP.NET MVC
+- Injeção de Dependência
+- Result pattern
 - Entity Framework
+- Nhibernate 
+- Dapper
+- AutoMapper
+- SQL
 - SQL Server
-- RabbitMQ
-- Microsserviços
-- Docker
+- PostGreSQL
+- MySQL
+- CI/CD Azure Devops, Jenkins e GitHub Actions   
 - Git e GitHub
-- GitHub Actions
-- React
+- Html
+- CSS
+- JavaScript
+- JQuery
+- Page Razor
+- React básico
+- Vue.js básico
 
 Sempre buscando escrever código limpo, escalável e seguindo boas práticas como SOLID, Clean Code e Design Patterns.
 
