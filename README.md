@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Profissional com mais ou menos 10 anos de experiência atuando com C#/.Net.
+## 💻 Profissional com mais ou menos 10 anos de experiência atuando com C#/.Net.
 
 ## 🛠 Hard Skills
 - C#
