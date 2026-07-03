@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Fabiano Silva 👋</h1>
+<h1 align="center">Olá! Eu sou o Fabiano S. da Silva 👋</h1>
 
 <p align="center">
    Desenvolvedor Full Stack .NET | ASP.Net MVC
@@ -42,6 +42,10 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
 
 ## 🛠 Tecnologias
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,vue,angular,html,css,js,jquery,mysql,postgres,visualstudio,vscode" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NHibernate-59666C?style=for-the-badge" />
@@ -50,10 +54,6 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
   <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Result_Pattern-0A66C2?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,vue,angular,html,css,js,jquery,mysql,postgres,visualstudio" />
 </p>
 
 ---
