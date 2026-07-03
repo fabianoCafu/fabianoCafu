@@ -52,7 +52,7 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,vue,html,css,js,jquery,mysql,postgres,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,html,css,js,jquery,mysql,postgres,visualstudio" />
 </p>
 
 ---
