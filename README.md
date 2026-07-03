@@ -34,6 +34,7 @@
 - Page Razor
 - React básico
 - Vue.js básico
+- Angular básico
 
 Sempre buscando escrever código limpo, escalável e seguindo boas práticas como SOLID, Clean Code e Design Patterns.
 
@@ -52,7 +53,7 @@ Sempre buscando escrever código limpo, escalável e seguindo boas práticas com
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,html,css,js,jquery,mysql,postgres,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,azure,jenkins,react,vue,angular,html,css,js,jquery,mysql,postgres,visualstudio" />
 </p>
 
 ---
